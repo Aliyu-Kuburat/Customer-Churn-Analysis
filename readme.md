@@ -133,5 +133,5 @@ Based on the insights, the following strategies are recommended:
   Conclusion
 The churn analysis and predictive model provide a clear understanding of why customers leave and how to prevent it. Using the Random Forest model, the company can identify at-risk customers early and take effective action. This report lays the groundwork for stronger retention strategies, improved customer experience, and long-term revenue growth.
 
-View Deployment
+View Deployment of Analysis
 https://customer-churn-prediction-tele-app.streamlit.app/
